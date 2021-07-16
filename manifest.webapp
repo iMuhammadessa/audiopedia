@@ -1,0 +1,12 @@
+{
+  "name": "AudioPedia",
+  "description": "All about covid-19",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icons/logo.png"
+  },
+  "developer": {
+    "name": "Your name",
+    "url": "http://example.com"
+  }
+}
